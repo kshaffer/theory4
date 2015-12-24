@@ -1,0 +1,8 @@
+---
+layout: default
+image: keystackSmall.jpg
+category: Services
+title: Week 10 – October 26–29
+description: |
+  <p class="lead"><b>Modulation and (more) improvisation.</b><br/><br/><br/><br/><a href="/week10/">Read more...</a></p>
+---

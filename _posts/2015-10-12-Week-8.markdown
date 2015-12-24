@@ -1,0 +1,8 @@
+---
+layout: default
+image: clonesSmall.jpg
+category: Services
+title: Week 8 – October 12–15
+description: |
+  <p class="lead"><b>Introduction to classical form.</b><br/><br/>How are classical instrumental pieces put together? What is the relationship to pop/rock forms?<br/><br/><a href="/week8/">Read more...</a></p>
+---

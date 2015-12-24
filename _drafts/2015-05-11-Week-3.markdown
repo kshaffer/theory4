@@ -1,0 +1,8 @@
+---
+layout: default
+image: theEdgeSmall.jpg
+category: Services
+title: Week 3 – September 8–10
+description: |
+  <p class="lead"><b>Pop/Rock voice-leading & transcription.</b><br/><br/>Do the voice-leading principles from classical styles carry over to pop/rock music? If not, does that mean anything goes? Is there anything we can use to guide us as we transcribe — even improvise — in pop/rock styles?<br/><br/><a href="/week3/">Read more...</a></p>
+---

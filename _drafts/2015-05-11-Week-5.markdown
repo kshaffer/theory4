@@ -1,0 +1,8 @@
+---
+layout: default
+image: killersVocSmall.jpg
+category: Services
+title: Week 5 – September 21–24
+description: |
+  <p class="lead"><b>AABA form & fast transcription.</b><br/><br/>What are some strategies for transcribing syncopated pop/rock melodies quickly. Also...the fall and the return of the Golden Age song form.<br/><br/><a href="/week5/">Read more...</a></p>
+---

@@ -1,0 +1,8 @@
+---
+layout: default
+image: turntableSmall.jpg
+category: Services
+title: Week 7 – October 5–8
+description: |
+  <p class="lead"><b>Pop/rock form – synthesis and application.</b><br/><br/>How can we discern large-scale form types by ear? <br/><br/><a href="/week7/">Read more...</a></p>
+---

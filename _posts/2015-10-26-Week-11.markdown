@@ -1,0 +1,8 @@
+---
+layout: default
+image: brokenKeysSmall.jpg
+category: Services
+title: Week 11 – November 2–5
+description: |
+  <p class="lead"><b>Classical keyboard transcription.</b><br/><br/><br/><br/><a href="/week11/">Read more...</a></p>
+---

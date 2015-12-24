@@ -1,0 +1,8 @@
+---
+layout: default
+image: stringArtSmall.jpg
+category: Services
+title: Week 2 – August 31–September 3
+description: |
+  <p class="lead"><b>Pop/Rock pitch.</b><br/><br/>In part because of its roots in folk and blues traditions, pop/rock music contains pitch structures outside of the major/minor, T–PD–D–T tonal system. We'll explore some of the common melodic and harmonic structures in this diverse musical world.<br/><br/><a href="/week2/">Read more...</a></p>
+---

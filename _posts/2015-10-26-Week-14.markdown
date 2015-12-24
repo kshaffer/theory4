@@ -1,0 +1,8 @@
+---
+layout: default
+image: spiralSmall.jpg
+category: Services
+title: Week 14 – November 30–December 3
+description: |
+  <p class="lead"><b>Continuous expositions and double-MCs.</b><br/><br/>It's not all Mozart...<br/><br/><a href="/week14/">Read more...</a></p>
+---

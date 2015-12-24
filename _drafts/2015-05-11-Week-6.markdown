@@ -1,0 +1,8 @@
+---
+layout: default
+image: imogenSmall.jpg
+category: Services
+title: Week 6 – September 28–October 1
+description: |
+  <p class="lead"><b>Verse-chorus form & syncopated compound meter.</b><br/><br/>What do Michael Jackson, Imogen Heap, and Blondie have in common?<br/><br/><a href="/week6/">Read more...</a></p>
+---

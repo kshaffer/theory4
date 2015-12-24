@@ -1,0 +1,26 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://theory3.shaffermusic.com
+title: "Music Theory & Aural Skills 3"
+email: kris.shaffer@colorado.edu
+description: "MUSC 2101 & 2121, CU–Boulder"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/krisshaffer
+  - title: github
+    url: https://github.com/kshaffer/theory3

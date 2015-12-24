@@ -1,0 +1,8 @@
+---
+layout: default
+image: spiralSmall.jpg
+category: Services
+title: Week 4 – September 14–17
+description: |
+  <p class="lead"><b>Pop/Rock form & sight-reading.</b><br/><br/>How are pop/rock songs structured on the large scale?<br/><br/><a href="/week4/">Read more...</a></p>
+---

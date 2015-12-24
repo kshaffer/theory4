@@ -1,0 +1,8 @@
+---
+layout: default
+image: stringSmall.jpg
+category: Services
+title: Week 1 – August 24–27
+description: |
+  <p class="lead"><b>Pop/Rock syncopation.</b><br/><br/>We begin our pop/rock unit by laying a rhythmic foundation. We will focus on performing (and touch on aurally recognizing) beat-level syncopation, division-level syncopation, and fake triplets.<br/><br/><a href="/week1/">Read more...</a></p>
+---

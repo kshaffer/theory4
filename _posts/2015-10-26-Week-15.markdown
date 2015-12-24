@@ -1,0 +1,8 @@
+---
+layout: default
+image: memorySmall.jpg
+category: Services
+title: Week 15 – December 7–10
+description: |
+  <p class="lead"><b>Determining exposition types.</b><br/><br/>Determining exposition and recapitulation types by ear; final classical theme transcription work.<br/><br/><a href="/week15/">Read more...</a></p>
+---

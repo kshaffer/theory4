@@ -1,0 +1,8 @@
+---
+layout: default
+image: keysSmall.jpg
+category: Services
+title: Week 13 – November 16–19
+description: |
+  <p class="lead"><b>The two-part sonata exposition and recapitulation.</b><br/><br/>Mapping the formal structure of classical sonata cycles.<br/><br/><a href="/week13/">Read more...</a></p>
+---
