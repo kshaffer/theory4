@@ -1,8 +1,0 @@
----
-layout: default
-image: pianoSmall.jpg
-category: Services
-title: Week 12 – November 9–12
-description: |
-  <p class="lead"><b>Introduction to sonata theory.</b><br/><br/>Exploring one of the most popular large-scale forms in the classical era.<br/><br/><a href="/week12/">Read more...</a></p>
----

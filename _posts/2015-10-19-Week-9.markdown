@@ -1,8 +1,0 @@
----
-layout: default
-image: keystackSmall.jpg
-category: Services
-title: Week 9 – October 19–22
-description: |
-  <p class="lead"><b>Classical improvisation.</b><br/><br/><br/><br/><a href="/week9/">Read more...</a></p>
----
