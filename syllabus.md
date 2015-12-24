@@ -13,7 +13,7 @@ Music is nearly unparalleled in its ability to engage just about every facet of 
 
 One goal of the music theory course sequence is to demistify musical structure, to help you as current and aspiring professional musicians understand the ways in which a variety of types of music are constructed, and what meanings can be attached to those structures. And if theory represents the conceptual side of musical structure and meaning, then aural skills represents (part of) the practical side ― uniting meaning with structure through musical practice. 
 
-This year, we will be piloting the combination of theory and aural skills into a single course. Since the combination of theory and practice is often referred to as *praxis*, we could easily call this course Music Praxis. Some universities that treat these topics together call it simply Musicianship. We'll just call it Music Theory and Aural Skills. But note that this year, we will not be treating "written" and "aural" as two separate entities. Theory and practice, concept and embodiment, are inextricably linked in reality, and we will intentionally link them in our work this year.
+This year, we are piloting the combination of theory and aural skills into a single course. Since the combination of theory and practice is often referred to as *praxis*, we could easily call this course Music Praxis. Some universities that treat these topics together call it simply Musicianship. We'll just call it Music Theory and Aural Skills. But note that this year, we will not be treating "written" and "aural" as two separate entities. Theory and practice, concept and embodiment, are inextricably linked in reality, and we will intentionally link them in our work this year.
 
 Because this is a pilot, there are a few administrative things that are less than ideal. For one, this combined course will receive two final grades ― one for theory and one for aural skills. There will also be separate D2L sites. We will do everything we can to make the logistics as smooth as possible. But please be patient with the institutional bureaucracies and technological intricacies.
 
@@ -23,14 +23,16 @@ See the [Getting started](/introductions/) page for important information about 
 
 ## General course information
 
-Course title: Music Theory and Aural Skills 3  
-Course number: MUSI 2101 & 2121  
-Term: Fall 2015  
-Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
+Course title: Music Theory and Aural Skills 4  
+Course number: MUSI 2111 & 2131  
+Term: Spring 2016  
+Coordinator: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
 Physical office: MUS N138  
-Email: kris.shaffer@colorado.edu  
-Twitter: @krisshaffer  
-Course website: [theory3.shaffermusic.com](http://theory3.shaffermusic.com/)    
+Email: [kris.shaffer@colorado.edu](mailto:kris.shaffer@colorado.edu)  
+Twitter: [@krisshaffer](https://twitter.com/krisshaffer)  
+Instructor: [Mark Arnett](mailto:mark.arnett@colorado.edu)  
+Instructor: [Elena Specht](mailto:elena.specht@colorado.edu)  
+Course website: [theory3.shaffermusic.com](http://theory4.shaffermusic.com/)    
 LMS/Gradebook:  D2L
 
 
@@ -46,7 +48,9 @@ All other required class materials will be posted or linked to on the course sit
 
 ## The music
 
-This semester, we will engage music in two genres: *pop/rock music* of the late twentieth and early twenty-first centuries and *classical instrumental music* of the eighteenth century. Roughly half of the semester will be devoted to each, and we will engage both styles through performance, transcription, and analysis.
+This semester, we will engage music in two genres: German art song (*Lieder*, singular *Lied*) and twentieth-century "art" music. Roughly half of the semester will be devoted to each, and we will engage both styles through performance, transcription, and analysis.
+
+In addition to studying musical structures, we will place a significant emphasis on writing about musical structures. This will naturally include academic writing, but since most of you will spend the bulk of your career outside academia and/or communicating about music to non-musicians and non-academics, we will focus more on non-academic forms of writing.
 
 
 ## Assessment & grades
@@ -61,19 +65,18 @@ I have done my best to keep the assessment simple, especially since there will n
 
 ### Final grade calculation
 
-Following are assessment types that comprise the final Theory 3 grade:
+Following are assessment types that comprise the final Theory 4 grade:
 
-- **Online quizzes (open-note)** - 25% of the final Theory 3 grade.  
-- **Conceptual videos** - 30% of the final Theory 3 grade.  
-- **Application assignments** - 30% of the final Theory 3 grade.  
-- **Synthesis projects** - 15% of the final Theory 3 grade.
+- **Online quizzes (open-note)** - 20% of the final Theory 4 grade.  
+- **Daily/weekly assignments, in-class quizzes, and Twitter essays** - 60% of the final Theory 4 grade.  
+- **Academic essay midterm** - 10% of the final Theory 4 grade.  
+- **"Blessay" (blog/essay) final** - 10% of the final Theory 4 grade.  
 
-Following are assessment types that comprise the final Aural Skills 3 grade:
+Following are assessment types that comprise the final Aural Skills 4 grade:
 
-- **Prepared performance (voice and/or instrument)** - 25% of the final Aural Skills 3 grade.  
-- **Live performance (from sight or improvized)** - 25% of the final Aural Skills 3 grade.  
-- **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
-- **Slow transcription** - 25% of the final Aural Skills 3 grade.  
+- **Prepared performance (voice and/or instrument)** - 30% of the final Aural Skills 4 grade.  
+- **Live performance (from sight or improvized)** - 20% of the final Aural Skills 4 grade.  
+- **Transcription** - 50% of the final Aural Skills 4 grade.  
 
 For further details about assessment and grades, as well as example assignments, please see the [Assessment guide](/assessments/).
 

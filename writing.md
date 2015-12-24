@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Assignment guide
+title: Writing guide
 subTitle: "Music Theory and Aural Skills 4 (MUSC 2111 & 2131)<br/>CU–Boulder, Spring 2016<br/>Kris Shaffer, Ph.D. – coordinator"
-image: homework.jpg
+image: typewrite.jpg
 ---
 
 ***This page is still under development. The information below will be changed substantially.***
