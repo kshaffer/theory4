@@ -40,62 +40,48 @@ Below are written and/or video descriptions of the activities that will be asses
 
 ## Reading/video quizzes (at-home)
 
-There will be two reading/video assignments most weeks, with online reading quizzes due to be completed by 8am on Monday and Wednesday. These quizzes will run in the D2L site for Theory 3, and will count towards the Theory 3 grade. Only quizzes submitted by students present in class will be assessed.
+There will be one or two reading/video assignments most weeks, with online reading quizzes due to be completed by 8am on Monday and/or Wednesday. These quizzes will run in the D2L site for Theory 4, and will count towards the Theory 4 grade.
 
 Online quizzes will be open-note, will include mostly informational questions, and will be graded by percentage of questions answered correctly. Most quizzes will contain one or two questions that are created in order to get you thinking about conceptual issues that we will engage during class, and to give me information about everyone's general level of understanding before class. These questions will receive full credit for any honest attempt, regardless of correctness, and will be labeled as "graded for attempt only."
 
 While these quizzes are open-note and collaboration is allowed, I highly encourage you to attempt them individually without consulting readings or notes, and then go back to your notes (and/or your study partner's notes) and correct any mistakes before submitting your answers. This will give you both practice recalling the information and feedback when you are incorrect — two of the most helpful things for memorizing information correctly (and preparing for in-class quizzes).
 
-The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course. Thus, they must be done regularly and *before* we work through these concepts in class. There are no reassessment opportunities for quizzes. However, the lowest 15% of quiz grades will be dropped when calculating your final grade. 
-
-
-## Conceptual videos
-
-Each week (beginning with Week 2), you will submit two conceptual videos. These videos will be uploaded to the dropbox on the Theory 3 D2L site by the beginning of your section meeting on Thursday (unless other instructions are provided), and will count towards the Theory 3 grade. They will be graded pass/not-pass, but you will have a reassessment opportunity (see below). There is no collaboration for these videos.
-
-These videos should be *no more than 90 seconds*, and in them you should explain the concept in your own words and present at least one example of application to elucidate that explanation. These examples of application should be pieces of music *not covered in class or in Open Music Theory*. Examples can come from existing pieces in the repertoire, or pieces that you compose yourself.
-
-Videos that explain the concept accurately and coherently with a relevant example will receive credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity, due one week after the original deadline. (For most weeks, that means submitting any redos along with the next week's assigned videos.) 
-
-For each concept, one student video will be shared publicly (with that student's permission) with the class on our collaborative concept map. Throughout the course, this map will provide a high-quality set of concise explanations for student review and public consumption.
-
-**Examples (from a course in music cognition):**
-
-- [Learned auditory grouping](https://vimeo.com/129686217)  
-- [Secondary parameters](https://vimeo.com/132101450)  
-- [Nuance](https://vimeo.com/131795860)  
+The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course. Thus, they must be done regularly and *before* we work through these concepts in class. There are no reassessment opportunities for quizzes. However, the lowest 20% of quiz grades will be dropped when calculating your final grade. 
 
 
 ## Application assignments (theory)
 
-Most weeks will involve small-scale assignments in which you will cultivate and/or demonstrate your skills in applying the concepts of the week (and possibly those covered in previous weeks) in a musical task. These will generally be due by 8am on Mondays, and will count toward the Theory 3 grade. Submit via the dropbox on the Theory 3 D2L site, unless given different instructions.
+Most weeks will involve small-scale assignments and/or in-class quizzes in which you will cultivate and/or demonstrate your skills in applying the concepts of the week (and possibly those covered in previous weeks) in a musical task. These will generally be due by 8am on Mondays, and will count toward the Theory 4 grade. Submit via the dropbox on the Theory 4 D2L site, unless given different instructions.
 
 These application assignments will include voice-leading exercises, harmonic reductions, harmonic/melodic/formal analyses, composition exercises, etc. For each assignment type, you will be provided with specific instructions and a model assignment to consult as you work. 
 
 ## Synthesis projects 
 
-Each major unit of study will contain an end-of-unit project in which you will demonstrate the ability to synthesize many, if not all, of the concepts covered in that unit in a large(ish)-scale musical project, such as an analytical paper, a full-movement model composition, a research project, etc. Specific details will be provided for each unit. These projects will count toward the Theory 3 grade.
+Each major unit of study will contain an end-of-unit analytical project in which you will demonstrate the ability to synthesize many, if not all, of the concepts covered in that unit and express them in writing. See the [Writing guide](/writing/) for more information.
+
 
 ## Prepared performance
 
-In each unit of study, you will create a portfolio of prepared performance videos. Videos will be submitted in the dropbox of the Aural Skills 3 D2L site, and will count toward the Aural Skills 3 grade. Some videos will be individual, others for a small ensemble.
+In each unit of study, you will create a portfolio of prepared performance videos. Videos will be submitted in the dropbox of the Aural Skills 4 D2L site, and will count toward the Aural Skills 4 grade.
 
 Make a video of yourself performing each of the pieces in the portfolio. Each video in the portfolio will be assessed according to a 2-point rubric:
 
-- 2 points: accurate, concert-ready performance  
-- 1 point: an honest attempt, but not yet concert-ready  
-- 0 points: no attempt made, or video reflects little-to-no preparation
+- 2 points: Passed. Accurate, concert-ready performance.  
+- 1 point: Attempted (half-credit). An honest attempt, but not yet concert-ready.  
+- 0 points: Not attempted. No attempt made, or video reflects little-to-no preparation.  
 
 Video performances will generally be due early in the unit, submitted by 8am on Mondays. Videos receiving 1 point will be allowed to submit a second video one week after the original due date, in order to re-attempt the full 2 points (accurate, concert-ready performance). Further reassessments *may* be allowed, at the discretion of the Tuesday/Thursday section instructor.
 
 Details about specific pieces, collaboration options, etc. will be provided as performance videos are assigned.
 
+
 ## Live performance (from sight or improvized)
 
-This course contains the following two live-performance objectives:
+This course contains the following three live-performance objectives:
 
-- Sight-read a melody of moderate complexity in a contemporary pop/rock style, at an instrument or voice of choice.  
-- Improvize a melody that follows the formal conventions of classical/*galant* themes, at an instrument or voice of choice.
+- Sight-read a modulating melody in the style of a German Lied, sung with solfège.  
+- Sight-read a melody that makes use of an asymmetrical meter, on an instrument of choice.  
+- Sight-read a melody in a post-tonal style that makes use of one of the post-tonal modes/collections covered in this unit.  
 
 These will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to the rubrics below, and will count towards the Aural Skills 3 grade. Two exam slots will be reserved for the pop/rock objective, and two exam slots will be reserved for the two classical/*galant* objective. Students may attempt each objective once or twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score for each objective will count toward the final grade. 
 

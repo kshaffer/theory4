@@ -5,8 +5,6 @@ subTitle: "Music Theory and Aural Skills 4 (MUSC 2111 & 2131)<br/>CU–Boulder, 
 image: typewrite.jpg
 ---
 
-***This page is still under development. The information below will be changed substantially.***
-
 Whether teaching, writing, running rehearsals, or collaborating with other performers, most professional musicians work on a daily basis with non-musicians or with musicians whose specific area of musical expertise is different. Writing and speaking about music with accurate detail and nuance in a way that can be understood by those with different areas of expertise is an absolutely essential skill for twenty-first-century musicians. Indeed, the ability to write and speak with accuracy and nuance about a domain we know well, for a non-expert audience, is an important skill for a variety of career and life situations. Thus, to cap our studies of musical structures in the core theory/aural-skills sequence, we will focus on developing this important skill. 
 
 The standard for written assignments in university courses has long been the academic essay. We will engage academic writing this semester. However, because most of you will not go on to careers in academia, we will place a large emphasis on non-academic writing. And since most reading/writing these days happens on the web, we will place an emphasis specifically on digital writing ― doing things that you can't do in traditional print-based writing. 
