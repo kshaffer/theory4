@@ -83,7 +83,7 @@ This course contains the following three live-performance objectives:
 - Sight-read a melody that makes use of an asymmetrical meter, on an instrument of choice.  
 - Sight-read a melody in a post-tonal style that makes use of one of the post-tonal modes/collections covered in this unit.  
 
-These will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to the rubrics below, and will count towards the Aural Skills 3 grade. Two exam slots will be reserved for the pop/rock objective, and two exam slots will be reserved for the two classical/*galant* objective. Students may attempt each objective once or twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score for each objective will count toward the final grade. 
+These will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to the rubrics below, and will count towards the Aural Skills 4 grade. Two exam slots will be reserved for the Lied objective, and three exam slots will be reserved for the two post-tonal objectives. Students may attempt each objective once or twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score for each objective will count toward the final grade. 
 
 Grades for each sight-reading exam will be assigned as follows:
 
@@ -91,13 +91,6 @@ Grades for each sight-reading exam will be assigned as follows:
 - 2 points: a strong performance with a few small mistakes, or which requires more than two attempts to sound concert-ready.  
 - 1 point: an honest attempt, but with significant errors.  
 - 0 points: no attempt or performance reflects little-to-no preparation.
-
-Grades for each improvisation exam will be assigned as follows:
-
-- D (64% if generally correct, 69% if flawless): Improvise a classical-style melody with 1–2 chord tones per chord/stage  
-- C (74% or 79%): Improvise a classical-style melody with 3 or more chord tones per chord/stage  
-- B (84% or 89%): Improvise a classical-style melody with multiple properly treated diatonic non-chord tones  
-- A (94% or 100%): Improvise a classical-style melody with multiple properly treated chromatic non-chord tones  
 
 
 
