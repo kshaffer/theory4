@@ -5,8 +5,6 @@ subTitle: "Music Theory and Aural Skills 4 (MUSC 2111 & 2131)<br/>CU–Boulder, 
 image: path.jpg
 ---
 
-***This page is still under development. The information below will be changed substantially.***
-
 Music is an art. Music is a language. Music is therapy. Music is [a clinical tool](http://www.musictherapy.org). Music is a [weapon](https://en.wikipedia.org/wiki/Music_in_psychological_operations). Music is an area of humanistic inquiry. Music is math. Music is neuroscience. Music is communal. Music is deeply personal. Music is [bug spray](http://articles.latimes.com/2005/feb/13/entertainment/ca-musichurts13). Music is religion. Music is [identity formation](https://openlibrary.org/works/OL3505052W/Music_in_Everyday_Life). Music is culture. Music is psychology.
 
 Music is nearly unparalleled in its ability to engage just about every facet of our lives. Perhaps only language has the same reach into our biology, psychology, individual identity, and social community. Music both frames, and is dependent on, our memory. Music both affects and flows from our emotions. Music both embodies and transcends cultural prejudice. And despite its heavily scientific base, even professional musicians treat it with an air of mystery.

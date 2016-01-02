@@ -19,19 +19,18 @@ I have done my best to keep the assessment simple, especially since there will n
 
 ### Final grade calculation
 
-Following are assessment types that comprise the final Theory 3 grade:
+Following are assessment types that comprise the final Theory 4 grade:
 
-- **Online quizzes (open-note)** - 25% of the final Theory 3 grade.  
-- **Conceptual videos** - 30% of the final Theory 3 grade.  
-- **Application assignments** - 30% of the final Theory 3 grade.  
-- **Synthesis projects** - 15% of the final Theory 3 grade.
+- **Online quizzes (open-note)** - 20% of the final Theory 4 grade.  
+- **Daily/weekly assignments, in-class quizzes, and Twitter essays** - 60% of the final Theory 4 grade.  
+- **Academic essay midterm** - 10% of the final Theory 4 grade.  
+- **"Blessay" (blog/essay) final** - 10% of the final Theory 4 grade.  
 
-Following are assessment types that comprise the final Aural Skills 3 grade:
+Following are assessment types that comprise the final Aural Skills 4 grade:
 
-- **Prepared performance (voice and/or instrument)** - 25% of the final Aural Skills 3 grade.  
-- **Live performance (from sight or improvized)** - 25% of the final Aural Skills 3 grade.  
-- **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
-- **Slow transcription** - 25% of the final Aural Skills 3 grade.  
+- **Prepared performance (voice and/or instrument)** - 30% of the final Aural Skills 4 grade.  
+- **Sight-reading (voice and/or instrument)** - 20% of the final Aural Skills 4 grade.  
+- **Transcription** - 50% of the final Aural Skills 4 grade.  
 
 Below are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
 
@@ -94,16 +93,18 @@ Grades for each sight-reading exam will be assigned as follows:
 
 
 
-## Slow transcription
+## Transcription
 
-This semester will contain a number of short, full-textured transcriptions, in both pop/rock and classical (typically keyboard or string-quartet) styles. Slow transcriptions will be submitted via the dropbox on the Aural Skills 3 D2L page and will count toward the Aural Skills 3 grade.
+This semester will contain a number of short, full-textured transcriptions, in both Romantic (typically Lieder) and post-tonal styles. Transcriptions will count toward the Aural Skills 4 grade.
 
-Each pop/rock transcription will be evaluated for accuracy of four musical features:
+These transcriptions will take place part in-class and part take-home. (Usually, beginning the transcription in Thursday's section, and finishing for an online submission by Monday morning.) For Unit I (Romantic era), you will be given a short (typically 15–20 seconds long), modulating passage of a German art song, and you will be told the starting pitch of the melody. You will be given 20–25 minutes at the end of class to transcribe the melody and key relationships (starting key, ending key, modulation type). Then you will complete the transcription (finish or correct the melody and key relationships, add accompaniment and harmonic analysis) by the due date.
+
+Each Romantic-era transcription will be evaluated for accuracy of four musical features:
 
 - melody (pitch, rhythm, and register)  
-- bass line (pitch, rhythm, and register)  
-- harmony (lead-sheet chord symbols for pop/rock, Roman numerals and T/S/D labels for classical)  
-- inner/other voices (all vocal parts and melodic instruments for pop/rock, all voices/parts for classical)
+- accompaniment (pitch, rhythm, and register)  
+- harmony (Roman numerals and cadences)  
+- key relationships (starting key, ending key, modulation types)  
 
 Each of these features will be given a score on the following 3-point scale (total of 12 points per transcription):
 
@@ -112,27 +113,12 @@ Each of these features will be given a score on the following 3-point scale (tot
 - 1 point: more than three noticeable mistakes.  
 - 0 points: not attempted, or attempt reflects little-to-no substantive effort.
 
-The best two pop/rock transcriptions and the best two classical transcriptions will count towards the final grade.
+*Melody and key relationship work done in-class (without an instrument or MIDI playback via software) will receive full credit, at-home will receive half credit. Accompaniment and harmony transcription can be done at-home for full credit.* 
+
+Thus, a solid transcription done entirely at-home can receive up to a C (75%). Substantial progress on the in-class portion can bring that up to a B. A (nearly) correct in-class transcription followed by (nearly) correct take-home work will receive an A.
+
+The best two Romantic-era transcriptions and the best two post-tonal transcriptions will count towards the final grade.
 
 I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process.
 
-
-## Fast transcription (dictation)
-
-This semester will also contain a number of short transcription exercises, focusing solely on melodies and bass lines in both pop/rock and classical styles. Assessments will generally take place during the Monday/Wednesday classes and will count toward the Aural Skills 3 grade.
-
-Each fast transcription assignment will contain 2–3 melodies (or bass lines), and each melody (or bass line) will be given a single score on the following 5-point scale. 
-
-- 6 points: a performance-ready transcription (most professional musicians would not be able to tell that it contained mistakes).  
-- 5 points: mostly correct, but with 1–3 mistakes that a professional musician would notice in a performance.  
-- 4 points: approaching performability, but more than three noticeable mistakes.  
-- 3 points: a mostly complete attempt (more than half), but not accurate enough to be performable.  
-- 2 points: about half complete.  
-- 1 point: a mostly incomplete attempt.  
-- 0 points: not attempted, or attempt reflects little-to-no substantive effort.
-
-The grade for the assignment will be the total score of all the melodies included on the assignment.
-
-The best two pop/rock transcription assignments and the best two classical transcription assignments will count toward the final grade.
-
-
+Your section instructor will give you specific submission instructions for these assignments. The final, take-home transcription will be notated with notation software and submitted via a D2L dropbox. The in-class portion will either be submitted on paper (take a picture or make a quick copy before you leave, so you can use it as the basis of your take-home transcription), or by the instructor taking a picture of your work before you leave.
