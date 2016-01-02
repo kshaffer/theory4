@@ -97,6 +97,8 @@ This semester will contain a number of short, full-textured transcriptions, in b
 
 These transcriptions will take place part in-class and part take-home. (Usually, beginning the transcription in Thursday's section, and finishing for an online submission by Monday morning.) For Unit I (Romantic era), you will be given a short (typically 15–20 seconds long), modulating passage of a German art song, and you will be told the starting pitch of the melody. You will be given 20–25 minutes at the end of class to transcribe the melody and key relationships (starting key, ending key, modulation type). Then you will complete the transcription (finish or correct the melody and key relationships, add accompaniment and harmonic analysis) by the due date.
 
+Because these transcriptions will begin in class, but will be self-paced, ***you will need to bring an appropriate device to class in order to access the audio.*** Please contact Kris and/or your section instructor if this poses difficulty for you, and we'll work something out.
+
 Each Romantic-era transcription will be evaluated for accuracy of four musical features:
 
 - melody (pitch, rhythm, and register)  
