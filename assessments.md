@@ -5,8 +5,6 @@ subTitle: "Music Theory and Aural Skills 4 (MUSC 2111 & 2131)<br/>CU–Boulder, 
 image: homework.jpg
 ---
 
-***This page is still under development. The information below will be changed substantially.***
-
 ## Grades (from the syllabus)
 
 The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
