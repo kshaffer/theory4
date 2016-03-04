@@ -26,8 +26,7 @@ Following are assessment types that comprise the final Theory 4 grade:
 
 Following are assessment types that comprise the final Aural Skills 4 grade:
 
-- **Prepared performance (voice and/or instrument)** - 30% of the final Aural Skills 4 grade.  
-- **Sight-reading (voice and/or instrument)** - 20% of the final Aural Skills 4 grade.  
+- **Performance (prepared and from sight)** - 50% of the final Aural Skills 4 grade.  
 - **Transcription** - 50% of the final Aural Skills 4 grade.  
 
 Below are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
