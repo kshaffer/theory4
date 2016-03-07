@@ -8,7 +8,7 @@ image: path.jpg
 
 ## Unit II scale/collection performance portfolio instructions ##
 
-To help you familizarize yourselves with standard scales and collections in post-tonal music, as well as to connect the sound of those collections with notation and the feel of them in your hands, please practice and record yourself singing the following scales/modes/collections ascending and descending:
+To help you familiarize yourselves with standard scales and collections in post-tonal music, as well as to connect the sound of those collections with notation and the feel of them in your hands, please practice and record yourself singing the following scales/modes/collections ascending and descending:
 
 - octatonic (solfège optional — sing the form that begins half-step – whole-step: do ra me mi fi sol la te do)  
 - whole-tone (solfège optional — do re mi fi le te do)  
