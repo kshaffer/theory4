@@ -23,23 +23,8 @@ Starting approximately in Week 6, you will write a weekly analysis paragraph in 
 4. Make sure that the musical details you include (#2) connect to the thesis statement (#3). If they do not make an obvious connection, then make that connection explicit in your writing.  
 5. Do not include any details that do not connect to your thesis statement.  
 
-Paragraphs will be assessed passed/attempted/not-attempted. Passed paragraphs receive full credit, attempted half credit, not attempted no credit. Paragraphs will be assessed on #1–3 above, but will receive feedback on #1–5. Paragraphs that meet the requirements of #1–3 will pass. If any requirements are not met, they will be marked as attempted only. There is no reassessment opportunity for paragraphs because it is important that they are written immediately after the in-class analysis has taken place in order to serve their purpose. However, the lowest paragraph grade will be dropped from the final course grade.
+Paragraphs will be assessed passed/attempted/not-attempted. Passed paragraphs receive full credit, attempted half credit, not attempted no credit. Paragraphs will be assessed on #1–3 above, but will receive feedback on #1–5. Paragraphs that meet the requirements of #1–3 will pass. If any requirements are not met, they will be marked as attempted only. There is no reassessment opportunity for paragraphs because it is important that they are written immediately after the in-class analysis has taken place in order to serve their purpose. However, the lowest paragraph grade in each unit (Lieder, post-tonal) will be dropped from the final course grade.
 
-
-## Twitter essays
-
-Please do the following when writing your Twitter essay:
-
-1. Read Jesse Stommel's article, [The Twitter Essay](http://www.hybridpedagogy.com/journal/the-twitter-essay/).   
-2. Formulate a concise, novel insight about a poem, piece of music, or theoretical concept we have recently studied.  
-3. Compose an essay of *exactly 140 characters*, including the hashtag #TwitterEssay and either #Lieder or #PostTonal (depending on the genre you are writing about). As Jesse says, "Play, innovate, incite." It can look like the thesis statement for a longer essay. But try to do something more, or at least more interesting. Push the (very limited) boundaries of the genre you are using.  
-4. Submit your Twitter essay according to the specific assignment instructions.
-
-Jesse's article contains some examples. You can also [search Twitter for examples](https://twitter.com/search?q=%23TwitterEssay&src=typd). (Note that not all of these results follow Jesse's rubric. There are many kinds of Twitter essays.)  
-
-Twitter essays will be graded pass/not-pass. Those which are exactly 140 characters (including the hashtags) and which say something non-trivial about the poem/piece/concept in question will pass. Exemplary Twitter essays will be published (anonymously) on the [@CUBoulderTheory](https://twitter.com/cubouldertheory) class Twitter account and/or shared in class. 
-
-There are no reassessment opportunities for Twitter essays, but the lowest grade (in other words, one missed/not-passed Twitter essay) will be dropped from the final grade.
 
 ## Academic papers
 

@@ -66,20 +66,18 @@ Make a video of yourself performing each of the pieces in the portfolio. Each vi
 - 1 point: Attempted (half-credit). An honest attempt, but not yet concert-ready.  
 - 0 points: Not attempted. No attempt made, or video reflects little-to-no preparation.  
 
-Video performances will generally be due early in the unit, submitted by 8am on Mondays. Videos receiving 1 point will be allowed to submit a second video one week after the original due date, in order to re-attempt the full 2 points (accurate, concert-ready performance). Further reassessments *may* be allowed, at the discretion of the Tuesday/Thursday section instructor.
+Video performances will generally be due early in the unit. Videos receiving 1 point will be allowed to submit a second video one week after the original due date, in order to re-attempt the full 2 points (accurate, concert-ready performance). Further reassessments *may* be allowed, at the discretion of the Tuesday/Thursday section instructor.
 
 Details about specific pieces, collaboration options, etc. will be provided as performance videos are assigned.
 
 
 ## Live performance (from sight or improvized)
 
-This course contains the following three live-performance objectives:
+This course contains the following live-performance objective:
 
 - Sight-read a modulating melody in the style of a German Lied, sung with solfège.  
-- Sight-read a melody that makes use of an asymmetrical meter, on an instrument of choice.  
-- Sight-read a melody in a post-tonal style that makes use of one of the post-tonal modes/collections covered in this unit.  
 
-These will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to the rubrics below, and will count towards the Aural Skills 4 grade. Two exam slots will be reserved for the Lied objective, and three exam slots will be reserved for the two post-tonal objectives. Students may attempt each objective once or twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score for each objective will count toward the final grade. 
+This will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to the rubrics below, and will count towards the Aural Skills 4 grade. Students may attempt this objective twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score will count toward the final grade. 
 
 Grades for each sight-reading exam will be assigned as follows:
 
@@ -97,6 +95,8 @@ This semester will contain a number of short, full-textured transcriptions, in b
 These transcriptions will take place part in-class and part take-home. (Usually, beginning the transcription in Thursday's section, and finishing for an online submission by Monday morning.) For Unit I (Romantic era), you will be given a short (typically 15–20 seconds long), modulating passage of a German art song, and you will be told the starting pitch of the melody. You will be given 20–25 minutes at the end of class to transcribe the melody and key relationships (starting key, ending key, modulation type). Then you will complete the transcription (finish or correct the melody and key relationships, add accompaniment and harmonic analysis) by the due date.
 
 Because these transcriptions will begin in class, but will be self-paced, ***you will need to bring an appropriate device to class in order to access the audio.*** Please contact Kris and/or your section instructor if this poses difficulty for you, and we'll work something out.
+
+### Lieder transcriptions ###
 
 Each Romantic-era transcription will be evaluated for accuracy of four musical features:
 
@@ -116,7 +116,32 @@ Each of these features will be given a score on the following 3-point scale (tot
 
 Thus, a solid transcription done entirely at-home can receive up to a C (75%). Substantial progress on the in-class portion can bring that up to a B. A (nearly) correct in-class transcription followed by (nearly) correct take-home work will receive an A.
 
-The best two Romantic-era transcriptions and the best two post-tonal transcriptions will count towards the final grade.
+There will be five Romantic Lieder transcriptions, and the best two scores will count towards the final grade.
+
+### Post-tonal transcriptions ###
+
+Post-tonal transcriptions will be slow, take-home transcriptions only. There will be no dictation/fast transcription for this unit.
+
+Each post-tonal transcription will be evaluated for accuracy of four musical features:
+
+- pitch(-class) content  
+- register  
+- rhythm (correct note-to-note durations)  
+- meter (correct overall metrical arrangement/time signature)  
+
+Each of these features will be given a score on the following 3-point scale (total of 12 points per transcription):
+
+- 3 points: a performance-ready transcription (most professional musicians would not be able to tell that it contained mistakes).  
+- 2 points: mostly correct, but with 1–3 mistakes that a professional musician would notice in a performance.  
+- 1 point: more than three noticeable mistakes.  
+- 0 points: not attempted, or attempt reflects little-to-no substantive effort.
+
+(For *meter*, one point will be determined by the accuracy of the time signature, and the other two points will be determined by whether or not the rhythms line up properly with that meter — barlines in the correct places, notes on the correct beats, etc.)
+
+There will be three post-tonal transcriptions (due on 4/11, 4/18, and 5/2), and the best two scores will count towards the final grade.
+
+
+### Overall grades and demo ###
 
 I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process.
 
