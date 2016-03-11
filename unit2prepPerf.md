@@ -14,12 +14,12 @@ There are two short excerpts, one from Leonard Bernstein's "Jeremiah" Symphony a
 
 Following are the scores for these two excerpts. Download the scores for your clef.
 
-- [Bernstein, treble clef](media/Bernstein-treble.pdf)  
-- [Bernstein, alto clef](media/Bernstein-alto.pdf)  
-- [Bernstein, bass clef](media/Bernstein-bass.pdf)  
-- [Bartók, treble clef](media/Bartok-treble.pdf)  
-- [Bartók, alto clef](media/Bartok-alto.pdf)  
-- [Bartók, bass clef](media/Bartok-bass.pdf)  
+- [Bernstein, treble clef](/media/Bernstein-treble.pdf)  
+- [Bernstein, alto clef](/media/Bernstein-alto.pdf)  
+- [Bernstein, bass clef](/media/Bernstein-bass.pdf)  
+- [Bartók, treble clef](/media/Bartok-treble.pdf)  
+- [Bartók, alto clef](/media/Bartok-alto.pdf)  
+- [Bartók, bass clef](/media/Bartok-bass.pdf)  
 
 Practice performing them until you can perform them *accurately* and *at the tempo indicated*, while observing all expressive markings. Once you are performing the excerpt consistently well, record it and upload your videos to the D2L dropbox. Be sure that we can see your conducting pattern in the video.
 
